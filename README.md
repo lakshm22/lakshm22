@@ -9,10 +9,10 @@
 
 ### 💡 Things I’m learning:
 
-- Git, GitHub Workflows, and Open Source Collaboration.
+- GitHub Workflows, and Open Source Collaboration.
 - Artificial Intelligence & Machine Learning.
 - *Learning to work* with LLMs and Transformers.
-- Data Analysis & Visualization (Python, SQL, Power BI).
+- Data Analysis & Visualisation (Python, SQL, Power BI).
 - Natural Language Processing & Deep Learning.
 - Experimenting with projects that mix **tech + impact**.
 
