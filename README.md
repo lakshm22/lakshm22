@@ -3,7 +3,7 @@
 
 🌱 Currently diving deep into the world of **AI, Machine Learning, and NLP**.
 🎨 Exploring **XR (Extended Reality) Development**.
-💻 Pursuing my **B.Tech in Computer Science**. 
+💻 Pursuing my **B.E in Computer Science**. 
 🛠 Building cool things that merge **Technology & Human Potential**.
 
 ---
