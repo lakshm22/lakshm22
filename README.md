@@ -1,9 +1,10 @@
 # Hey there, I'm Laksh! 👋  
-*Student | AI/ML Enthusiast | Self-Growth Explorer*
+*Student | AI/ML Enthusiast | Creative Technologist | Self-Growth Explorer*
 
-🌱 Currently diving deep into the world of **AI, Machine Learning, and NLP**.  
-💻 Pursuing my **B.Tech in Computer Science** . 
-🛠 Building cool things that merge **technology & human potential**.
+🌱 Currently diving deep into the world of **AI, Machine Learning, and NLP**.
+🎨 Exploring **XR (Extended Reality) Development**.
+💻 Pursuing my **B.Tech in Computer Science**. 
+🛠 Building cool things that merge **Technology & Human Potential**.
 
 ---
 
