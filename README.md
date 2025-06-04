@@ -1,4 +1,4 @@
-# Hey there, I'm Laksh! 👋  
+# Hey there!  
 *Student | AI/ML Enthusiast | Creative Technologist | Self-Growth Explorer*
 
 🌱 Currently diving deep into the world of **AI, Machine Learning, and NLP**.
