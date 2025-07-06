@@ -11,17 +11,6 @@
 ### 💡 Things I’m learning:
 
 - GitHub Workflows, and Open Source Collaboration.
-- Artificial Intelligence & Machine Learning.
-- *Learning to work* with LLMs and Transformers.
-- Frontend Dev tools like R3F, Framer Motion, TailwindCSS, APIs
-- `Unity3D`, `XR Toolkit`, `Vuforia`, `ARCore`, `ARKit`, `OpenCV`.
-- Experimenting with projects that mix **tech + impact**.
-
-
----
-
-### ⚡ Belief:
-I believe in **doing the karma** ⚙️✨.
 
 ---
 
