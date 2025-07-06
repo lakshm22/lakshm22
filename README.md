@@ -8,12 +8,6 @@
 
 ---
 
-### 💡 Things I’m learning:
-
-- GitHub Workflows, and Open Source Collaboration.
-
----
-
 ### 🌟 Personal Mantra:
 
 *“If you can envision it, you're already capable of creating it.”* 🔮
