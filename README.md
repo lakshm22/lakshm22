@@ -2,7 +2,7 @@
 *Student | AI/ML Enthusiast | Creative Technologist | Self-Growth Explorer*
 
 🌱 Currently diving deep into the world of **AI, Machine Learning, and NLP**.
-🎨 Exploring **XR (Extended Reality) Development**.
+🎨 Exploring **XR (Extended Reality) Development and Frontend Development**.
 💻 Pursuing my **B.E in Computer Science**. 
 🛠 Building cool things that merge **Technology & Human Potential**.
 
