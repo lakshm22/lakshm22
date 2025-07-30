@@ -2,7 +2,7 @@
 *Student | AI/ML Enthusiast | Creative Technologist | Self-Growth Explorer*
 
 🌱 Currently diving deep into the world of **AI, Machine Learning** and **Frontend Development**.
-💻 Pursuing my **B.E in Computer Science**. 
+💻 Pursuing my dual degree **B.E in Computer Science** and **B.S Data Science and Applications**.
 🛠 Building cool things that merge **Technology & Human Potential**.
 
 ---
