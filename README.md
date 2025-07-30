@@ -1,5 +1,5 @@
 # Hey there! I'm Lakshitha.
-*Student | AI/ML Enthusiast | Creative Technologist | Self-Growth Explorer*
+*Student | Creative Technologist | Self-Growth Explorer*
 
 🌱 Currently diving deep into the world of **AI, Machine Learning** and **Frontend Development**.
 💻 Pursuing my dual degree **B.E in Computer Science** and **B.S Data Science and Applications**.
