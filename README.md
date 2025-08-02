@@ -11,6 +11,6 @@ When I'm not panicking over deadlines, I hit the gym (home gym for now), make cr
   <img src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&theme=tokyonight&border_radius=8&hide_border=true" height="180"/>
 </p>
 
-<p align="justify">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&theme=tokyonight&border_radius=8&hide_border=true" height="180"/>
 </p>
