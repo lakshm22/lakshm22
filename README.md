@@ -12,7 +12,7 @@ Frontend: HTML, CSS, React, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB
 Tools: Git, GitHub, VS Code, Postman
-</pre>
+## </pre>
 
 ---
 
