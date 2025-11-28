@@ -1,10 +1,39 @@
-### Hello there!
+# Lakshitha M
 
-I'm Lakshitha, an engineering student based in India.
+Engineering student with a focus on frontend and full-stack development. Interested in building reliable, maintainable software using modern web technologies.
 
-I am figuring my way out in the tech world one step at a time,
-I learn as I build - and break stuff occasionally (okay... maybe a little bit more than occasionally)
+---
 
-When I'm not panicking over deadlines, I hit the gym (home gym for now), make crafts and play a flute during my free time.
+## Technical Skills
 
+**Languages:** JavaScript (ES6+), Python, Java, C
+**Frontend:** HTML, CSS, React, Tailwind CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Tools:** Git, GitHub, VS Code, Postman
 
+---
+
+## Core Strengths
+
+* Frontend development and UI structure
+* REST API development and integration
+* MERN stack application flow
+* Clean code practices and debugging
+* Version control and collaborative workflows
+
+---
+
+## Current Focus
+
+* Strengthening full-stack development
+* Improving frontend performance and architecture
+* Building production-ready applications
+* Enhancing problem-solving and code reliability
+
+---
+
+## Contact
+
+Open to internships and development roles.
+Reach out via GitHub, LinkedIn or email.
