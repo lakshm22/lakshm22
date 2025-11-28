@@ -5,7 +5,7 @@ Engineering student with a focus on frontend and full-stack development. Interes
 ---
 
 ## Technical Skills
-<pre font-size: 16px>
+<pre font-size: 12px>
 Languages: JavaScript (ES6+), Python, Java, C
 Frontend: HTML, CSS, React, Tailwind CSS
 Backend: Node.js, Express.js
