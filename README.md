@@ -4,7 +4,7 @@ An engineering student focused on computer science fundamentals.
 ---
 
 ### Learning:
-CS fundamentals, C++, Java
+CS fundamentals
 
 ---
 
