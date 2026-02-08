@@ -1,4 +1,4 @@
-Hi, I'm Lakshitha 👋
+#### Hi, I'm Lakshitha 👋
 An engineering student focused on computer science fundamentals.
 
 ---
