@@ -1,9 +1,9 @@
 #### Hi, I'm Lakshitha 👋
-An engineering student focused on computer science fundamentals.
+An engineering student focused on building strong computer science fundamentals.
 
 ---
 
-#### Learning:
+#### Currently learning:
 CS fundamentals
 
 ---
