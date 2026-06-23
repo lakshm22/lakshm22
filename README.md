@@ -14,6 +14,6 @@ CS fundamentals
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
