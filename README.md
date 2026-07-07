@@ -17,4 +17,4 @@ CS fundamentals
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
