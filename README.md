@@ -259,7 +259,7 @@ Django
 
 <td width="33%" valign="top">
 
-#### ⚙️ ENGG
+#### ⚙️ CS
 
 DSA
 
