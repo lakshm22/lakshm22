@@ -357,9 +357,7 @@ AWS
 
 ### 🟢 GeeksforGeeks
 
-<a href="https://www.geeksforgeeks.org/profile/lakshm22">
-  <img src="https://gfgstatscard.vercel.app/lakshm22" alt="GFG Stats" />
-</a>
+<img src="https://gfg-stats.tashif.codes/lakshm22/stats/svg" alt="GeeksforGeeks Stats" />
 
 </div>
 
