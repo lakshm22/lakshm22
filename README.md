@@ -337,6 +337,8 @@ Performance & scalability
 
 `GIT` `DOCKER` `LINUX` `AWS`
 
+---
+
 <br>
 
 **JAVA FULL STACK · BACKEND · SYSTEMS**
