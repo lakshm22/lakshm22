@@ -233,7 +233,7 @@ Applied Machine Learning · Intelligent Applications · Automation
 
 <td width="33%" valign="top">
 
-##### ☕ JAVA
+#### ☕ JAVA
 
 Spring Boot
 
@@ -245,7 +245,7 @@ Advanced Java
 
 <td width="33%" valign="top">
 
-##### 🌐 WEB
+#### 🌐 WEB
 
 TypeScript
 
@@ -259,7 +259,7 @@ Django
 
 <td width="33%" valign="top">
 
-###### ⚙️ ENGINEERING
+#### ⚙️ ENGG
 
 DSA
 
