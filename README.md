@@ -121,69 +121,23 @@ Interested in understanding how applications work from **API design and business
 ### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib" />
 </p>
 
-`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Streamlit`
+`Streamlit`
 
 ---
 
 ## ☕ Java Engineering
 
-My primary development ecosystem.
-
-```text id="h5t9ax"
-JAVA
- │
- ├── Object-Oriented Programming
- ├── Collections
- ├── Exception Handling
- ├── Multithreading
- ├── Streams & Lambdas
- └── Data Structures & Algorithms
-        │
-        ▼
-SPRING BOOT
- │
- ├── REST APIs
- ├── Spring MVC
- ├── Spring Data JPA
- ├── Hibernate
- ├── Spring Security
- └── Authentication & Authorization
-```
+Java is my primary development ecosystem, with a focus on **object-oriented programming, collections, exception handling, multithreading, streams, and data structures & algorithms**. I'm building backend applications with **Spring Boot**, working with REST APIs, Spring MVC, Spring Data JPA, Hibernate, Spring Security, and authentication & authorization.
 
 ---
 
 ## 🌐 Full Stack
 
-```text id="r8u3kd"
-                 CLIENT
-                   │
-                   ▼
-              React / TS
-                   │
-              REST APIs
-                   │
-                   ▼
-             Spring Boot
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-      Business           Security
-       Logic            JWT / Auth
-          │
-          ▼
-      JPA / Hibernate
-          │
-     ┌────┴────┐
-     ▼         ▼
- PostgreSQL   MySQL
-```
+I work across the full stack, building interfaces with **HTML, CSS, JavaScript, and React**, and developing backend services with **Java and Spring Boot**. On the data side, I work with **PostgreSQL and MySQL**, with **Redis** as a caching layer. I'm also expanding into the broader web ecosystem through **TypeScript, Node.js, Express.js, and Django**.
 
-Expanding into:
-
-`TypeScript` → `Node.js` → `Express.js` → `Django`
 
 ---
 
@@ -247,31 +201,12 @@ Cache-aside · TTL · Session Storage · Rate Limiting
 
 ---
 
-## 🏗️ System Design
+## 🏗️ SYSTEM DESIGN
 
-Currently developing an understanding of how applications evolve beyond a single server.
+Interested in designing reliable, scalable backend systems.
 
-```text id="z2k6pw"
-Requirements
-      ↓
-Architecture
-      ↓
-API Design
-      ↓
-Data Modeling
-      ↓
-Caching
-      ↓
-Load Balancing
-      ↓
-Scalability
-      ↓
-Reliability
-```
-
-Exploring:
-
-`Caching` · `Load Balancing` · `Message Queues` · `Distributed Systems` · `Microservices`
+`API Design` · `Database Design` · `Caching`
+`Load Balancing` · `Messaging` · `Distributed Systems`
 
 ---
 
