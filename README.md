@@ -296,41 +296,6 @@ AWS
 
 ---
 
-### ⚙️ Engineering Approach
-
-```text id="w4m2sz"
-        UNDERSTAND
-             │
-             ▼
-          DESIGN
-             │
-             ▼
-           BUILD
-             │
-             ▼
-           TEST
-             │
-             ▼
-          MEASURE
-             │
-             ▼
-          IMPROVE
-```
-
-#### Principles
-
-> **Readable > Clever**
-
-> **Simple > Unnecessarily Complex**
-
-> **Understand > Memorize**
-
-> **Measure > Assume**
-
-> **Build > Just Watch**
-
----
-
 ### 📊 GitHub
 
 <div align="center">
