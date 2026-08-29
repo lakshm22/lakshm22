@@ -29,7 +29,7 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 Computer Science Engineer focused on **Java Full Stack Development** and backend engineering.
 
@@ -44,14 +44,14 @@ Interested in understanding how applications work from **API design and business
 
 ---
 
-## 🧭 What I Build
+### 🧭 What I Build
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### ☕ Backend Engineering
+#### ☕ Backend Engineering
 
 `Java`
 
@@ -67,7 +67,7 @@ Interested in understanding how applications work from **API design and business
 
 <td width="33%" valign="top">
 
-### 🌐 Full Stack Applications
+#### 🌐 Full Stack Applications
 
 `React`
 
@@ -83,7 +83,7 @@ Interested in understanding how applications work from **API design and business
 
 <td width="33%" valign="top">
 
-### 🗄️ Data & Infrastructure
+#### 🗄️ Data & Infrastructure
 
 `PostgreSQL`
 
@@ -104,21 +104,21 @@ Interested in understanding how applications work from **API design and business
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 🔴 Primary
+#### 🔴 Primary
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,postgres,mysql,git,github,postman" />
 </p>
 
-### 🟣 Currently Learning
+#### 🟣 Currently Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,django,docker,linux,aws" />
 </p>
 
-### 🤖 AI / ML
+#### 🤖 AI / ML
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
@@ -128,28 +128,28 @@ Interested in understanding how applications work from **API design and business
 
 ---
 
-## ☕ Java Engineering
+### ☕ Java Engineering
 
 Java is my primary development ecosystem, with a focus on **object-oriented programming, collections, exception handling, multithreading, streams, and data structures & algorithms**. I'm building backend applications with **Spring Boot**, working with REST APIs, Spring MVC, Spring Data JPA, Hibernate, Spring Security, and authentication & authorization.
 
 ---
 
-## 🌐 Full Stack
+### 🌐 Full Stack
 
 I work across the full stack, building interfaces with **HTML, CSS, JavaScript, and React**, and developing backend services with **Java and Spring Boot**. On the data side, I work with **PostgreSQL and MySQL**, with **Redis** as a caching layer. I'm also expanding into the broader web ecosystem through **TypeScript, Node.js, Express.js, and Django**.
 
 
 ---
 
-## 🗄️ Data & Caching
+### 🗄️ Data & Caching
 
-### RELATIONAL DATABASES
+#### RELATIONAL DATABASES
 
 `PostgreSQL` · `MySQL`
 
 Data modelling · Transactions · Indexing · Query Optimization
 
-### ⚡ CACHING
+#### ⚡ CACHING
 
 `Redis`
 
@@ -157,14 +157,14 @@ Cache-aside · TTL · Session Storage · Rate Limiting
 
 ---
 
-## 🧠 Computer Science
+### 🧠 Computer Science
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Core
+#### Core
 
 `DSA`
 
@@ -180,7 +180,7 @@ Cache-aside · TTL · Session Storage · Rate Limiting
 
 <td width="50%" valign="top">
 
-### Engineering
+#### Engineering
 
 `REST API Design`
 
@@ -201,7 +201,7 @@ Cache-aside · TTL · Session Storage · Rate Limiting
 
 ---
 
-## 🏗️ SYSTEM DESIGN
+### 🏗️ SYSTEM DESIGN
 
 Interested in designing reliable, scalable backend systems.
 
@@ -210,30 +210,30 @@ Interested in designing reliable, scalable backend systems.
 
 ---
 
-## 🤖 AI / ML
+### 🤖 AI / ML
 
 A secondary technical interest.
 
-### STACK
+#### STACK
 
 `Python` · `NumPy` · `Pandas` · `Scikit-learn`
 
 `Matplotlib` · `Streamlit`
 
-### INTERESTS
+#### INTERESTS
 
 Applied Machine Learning · Intelligent Applications · Automation
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### ☕ JAVA
+#### ☕ JAVA
 
 Spring Boot
 
@@ -245,7 +245,7 @@ Advanced Java
 
 <td width="33%" valign="top">
 
-### 🌐 WEB
+#### 🌐 WEB
 
 TypeScript
 
@@ -259,7 +259,7 @@ Django
 
 <td width="33%" valign="top">
 
-### ⚙️ ENGINEERING
+#### ⚙️ ENGINEERING
 
 DSA
 
@@ -278,17 +278,17 @@ AWS
 
 ---
 
-# 💻 Coding Activity
+### 💻 Coding Activity
 
 <div align="center">
 
-### 🟡 LeetCode
+#### 🟡 LeetCode
 
 <img src="https://leetcard.jacoblin.cool/lakshm22?theme=dark&font=Karma&ext=heatmap" />
 
 <br><br>
 
-### 🟢 GeeksforGeeks
+#### 🟢 GeeksforGeeks
 
 <img src="https://gfg-stats.tashif.codes/lakshm22/stats/svg" alt="GeeksforGeeks Stats" />
 
@@ -296,7 +296,7 @@ AWS
 
 ---
 
-## ⚙️ Engineering Approach
+### ⚙️ Engineering Approach
 
 ```text id="w4m2sz"
         UNDERSTAND
@@ -317,7 +317,7 @@ AWS
           IMPROVE
 ```
 
-### Principles
+#### Principles
 
 > **Readable > Clever**
 
@@ -331,7 +331,7 @@ AWS
 
 ---
 
-## 📊 GitHub
+### 📊 GitHub
 
 <div align="center">
 
@@ -343,17 +343,17 @@ AWS
 
 ---
 
-## 💡 Engineering Philosophy
+### 💡 Engineering Philosophy
 
 <div align="center">
 
-### **Learn the abstraction.**
+#### **Learn the abstraction.**
 
-### **Understand what happens underneath.**
+#### **Understand what happens underneath.**
 
-### **Build something with it.**
+#### **Build something with it.**
 
-### **Then make it better.**
+#### **Then make it better.**
 
 </div>
 
