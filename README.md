@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,50:7B2FF7,100:2575FC&height=180&section=header&text=LAKSHITHA%20M&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Backend+Systems+%26+REST+APIs;Learning+TypeScript+%7C+Node.js+%7C+Django;Exploring+System+Design+%26+Cloud" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=750&lines=Building+Reliable+%26+Scalable+Systems;Turning+Ideas+into+Working+Software;Designing+Clean+APIs+%26+Architecture;Solving+Problems+One+Commit+at+a+Time;Code+%7C+Logic+%7C+Systems;Build.+Break.+Understand.+Improve." />
 <br><br>
 
 <a href="https://github.com/lakshm22">
