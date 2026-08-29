@@ -109,7 +109,7 @@ Interested in understanding how applications work from **API design and business
 ### 🔴 Primary
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,postgres,mysql,git,github,postman" />
 </p>
 
 ### 🟣 Currently Learning
