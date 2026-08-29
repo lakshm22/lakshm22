@@ -226,58 +226,6 @@ Applied Machine Learning · Intelligent Applications · Automation
 
 ---
 
-### 📚 Currently Learning
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-#### ☕ JAVA
-
-Spring Boot
-
-Spring Security
-
-Advanced Java
-
-</td>
-
-<td width="33%" valign="top">
-
-#### 🌐 WEB
-
-TypeScript
-
-Node.js
-
-Express.js
-
-Django
-
-</td>
-
-<td width="33%" valign="top">
-
-#### ⚙️ CS
-
-DSA
-
-System Design
-
-Docker
-
-Linux
-
-AWS
-
-</td>
-
-</tr>
-</table>
-
----
-
 ### 💻 Coding Activity
 
 <div align="center">
