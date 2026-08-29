@@ -1,15 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,50:7B2FF7,100:2575FC&height=180&section=header&text=LAKSHITHA%20M&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-<br>
-<a href="https://github.com/lakshm22">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/lakshitha-m22/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,50:7B2FF7,100:2575FC&height=180&section=header&text=YOUR%20NAME&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
+
+<a href="https://github.com/lakshm22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/lakshm22">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/lakshitha2005che">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/lakshm22/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="mailto:lakshitha2005che@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/lakshitha-m22/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Backend+Systems+%26+REST+APIs;Learning+TypeScript+%7C+Node.js+%7C+Django;Exploring+System+Design+%26+Cloud" />
 
 </div>
@@ -20,7 +35,7 @@
 
 Computer Science Engineer focused on **Java Full Stack Development** and backend engineering.
 
-I enjoy understanding how applications work beneath the surface — from **API design and business logic to databases, caching, authentication and deployment**.
+Interested in understanding how applications work from **API design and business logic to databases, caching, authentication and deployment**.
 
 * 🔴 Primary ecosystem: **Java + Spring Boot**
 * 🔵 Frontend: **React + JavaScript**
@@ -40,8 +55,6 @@ I enjoy understanding how applications work beneath the surface — from **API d
 
 ### ☕ Backend Engineering
 
-Building RESTful backend applications using:
-
 `Java`
 
 `Spring Boot`
@@ -58,8 +71,6 @@ Building RESTful backend applications using:
 
 ### 🌐 Full Stack Applications
 
-Connecting backend systems with modern web interfaces using:
-
 `React`
 
 `JavaScript`
@@ -75,8 +86,6 @@ Connecting backend systems with modern web interfaces using:
 <td width="33%" valign="top">
 
 ### 🗄️ Data & Infrastructure
-
-Working with:
 
 `PostgreSQL`
 
@@ -99,7 +108,7 @@ Working with:
 
 ## 🛠️ Tech Stack
 
-### 🔴 Primary Stack
+### 🔴 Primary
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,git,github,postman" />
@@ -125,7 +134,7 @@ Working with:
 
 My primary development ecosystem.
 
-```text
+```text id="h5t9ax"
 JAVA
  │
  ├── Object-Oriented Programming
@@ -150,7 +159,7 @@ SPRING BOOT
 
 ## 🌐 Full Stack
 
-```text
+```text id="r8u3kd"
                  CLIENT
                    │
                    ▼
@@ -174,7 +183,7 @@ SPRING BOOT
  PostgreSQL   MySQL
 ```
 
-Currently expanding into the wider JavaScript/Python ecosystem:
+Expanding into:
 
 `TypeScript` → `Node.js` → `Express.js` → `Django`
 
@@ -182,29 +191,17 @@ Currently expanding into the wider JavaScript/Python ecosystem:
 
 ## 🗄️ Data & Caching
 
-### Relational Databases
+### RELATIONAL DATABASES
 
 `PostgreSQL` · `MySQL`
 
-Interested in:
+Data modelling · Transactions · Indexing · Query Optimization
 
-* Data modelling
-* Relationships
-* Transactions
-* Indexing
-* Query optimization
-
-### ⚡ Caching
+### ⚡ CACHING
 
 `Redis`
 
-Exploring:
-
-* Cache-aside patterns
-* TTL
-* Session storage
-* Rate limiting
-* Read-heavy workloads
+Cache-aside · TTL · Session Storage · Rate Limiting
 
 ---
 
@@ -215,14 +212,17 @@ Exploring:
 
 <td width="50%" valign="top">
 
-### Core Foundations
+### Core
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Software Engineering
+`DSA`
+
+`OOP`
+
+`DBMS`
+
+`Operating Systems`
+
+`Computer Networks`
 
 </td>
 
@@ -230,13 +230,17 @@ Exploring:
 
 ### Engineering
 
-* REST API Design
-* Database Design
-* Authentication
-* System Design
-* Scalability
-* Caching
-* Cloud Fundamentals
+`REST API Design`
+
+`Database Design`
+
+`Authentication`
+
+`System Design`
+
+`Scalability`
+
+`Cloud Fundamentals`
 
 </td>
 
@@ -249,7 +253,7 @@ Exploring:
 
 Currently developing an understanding of how applications evolve beyond a single server.
 
-```text
+```text id="z2k6pw"
 Requirements
       ↓
 Architecture
@@ -267,7 +271,7 @@ Scalability
 Reliability
 ```
 
-Areas I'm exploring:
+Exploring:
 
 `Caching` · `Load Balancing` · `Message Queues` · `Distributed Systems` · `Microservices`
 
@@ -275,20 +279,17 @@ Areas I'm exploring:
 
 ## 🤖 AI / ML
 
-A secondary area of interest.
+A secondary technical interest.
 
-### Stack
+### STACK
 
 `Python` · `NumPy` · `Pandas` · `Scikit-learn`
 
 `Matplotlib` · `Streamlit`
 
-### Interests
+### INTERESTS
 
-Applied Machine Learning
-Intelligent Applications
-Automation
-AI-powered Software
+Applied Machine Learning · Intelligent Applications · Automation
 
 ---
 
@@ -299,7 +300,7 @@ AI-powered Software
 
 <td width="33%" valign="top">
 
-### 🔴 Java
+### ☕ JAVA
 
 Spring Boot
 
@@ -311,7 +312,7 @@ Advanced Java
 
 <td width="33%" valign="top">
 
-### 🟣 Web
+### 🌐 WEB
 
 TypeScript
 
@@ -325,7 +326,7 @@ Django
 
 <td width="33%" valign="top">
 
-### 🔵 Engineering
+### ⚙️ ENGINEERING
 
 DSA
 
@@ -344,9 +345,27 @@ AWS
 
 ---
 
+# 💻 Coding Activity
+
+<div align="center">
+
+### 🟡 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+
+<br><br>
+
+### 🟢 GeeksforGeeks
+
+<!-- Replace with a GFG stats card/service that supports your username -->
+
+</div>
+
+---
+
 ## ⚙️ Engineering Approach
 
-```text
+```text id="w4m2sz"
         UNDERSTAND
              │
              ▼
@@ -379,27 +398,13 @@ AWS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&theme=transparent&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=lakshm22&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lakshm22/lakshm22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -421,19 +426,7 @@ AWS
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
-
-<a href="https://github.com/lakshm22">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lakshitha-m22/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:7B2FF7,100:ED1C24&height=100&section=footer" width="100%"/>
 
