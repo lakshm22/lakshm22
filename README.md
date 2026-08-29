@@ -335,7 +335,7 @@ AWS
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=lakshm22" />
+<img src="https://ghstats.dev/api/card?username=lakshm22&bg=0D0B14&text=E5E7EB&title_color=7B2FF7&icon_color=ED1C24&border_color=2575FC&show_icons=true&show_ring=true" />
 
 </div>
 
