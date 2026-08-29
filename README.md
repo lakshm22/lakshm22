@@ -1,6 +1,6 @@
 <div align="center">
  
-# <img src="https://img.icons8.com/color/48/000000/code.png" width="35"/> LAKSHITHA M
+# LAKSHITHA M
 
 ### <img src="https://img.shields.io/badge/JAVA_FULL_STACK_DEVELOPER-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
