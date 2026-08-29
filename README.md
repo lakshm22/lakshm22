@@ -351,13 +351,15 @@ AWS
 
 ### 🟡 LeetCode
 
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/lakshm22?theme=dark&font=Karma&ext=heatmap" />
 
 <br><br>
 
 ### 🟢 GeeksforGeeks
 
-<!-- Replace with a GFG stats card/service that supports your username -->
+<a href="https://www.geeksforgeeks.org/profile/lakshm22">
+  <img src="https://gfgstatscard.vercel.app/lakshm22" alt="GFG Stats" />
+</a>
 
 </div>
 
