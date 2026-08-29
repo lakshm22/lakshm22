@@ -39,7 +39,7 @@ Interested in understanding how applications work from **API design and business
 * 🔵 Frontend: **React + JavaScript**
 * 🟣 Databases: **PostgreSQL + MySQL**
 * 🟢 Exploring: **TypeScript + Node.js + Django**
-* ☁️ Learning: **Docker + Linux + AWS**
+* ☁️ Learning: **Docker + Linux + AWS + Deployment**
 * 🧠 Strengthening: **DSA + System Design + CS fundamentals**
 
 ---
