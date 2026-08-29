@@ -121,10 +121,10 @@ Interested in understanding how applications work from **API design and business
 ### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
-`Streamlit`
+`Streamlit` `numpy` `pandas` `matplotlib`
 
 ---
 
