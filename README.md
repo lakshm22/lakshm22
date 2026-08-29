@@ -335,9 +335,9 @@ AWS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
