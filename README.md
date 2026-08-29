@@ -310,13 +310,7 @@ AWS
 
 <div align="center">
 
-#### **Learn the abstraction.**
-
-#### **Understand what happens underneath.**
-
-#### **Build something with it.**
-
-#### **Then make it better.**
+#### **Learn the abstraction.** | #### **Understand what happens underneath.** | #### **Build something with it.** | #### **Then make it better.**
 
 </div>
 
