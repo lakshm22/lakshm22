@@ -4,7 +4,7 @@
 
 <br>
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Backend+Systems+%26+REST+APIs;Learning+TypeScript+%7C+Node.js+%7C+Django;Exploring+System+Design+%26+Cloud" />
-<br>
+<br><br>
 
 <a href="https://github.com/lakshm22">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
