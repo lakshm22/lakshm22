@@ -1,10 +1,15 @@
 <div align="center">
+ 
+# <img src="https://img.icons8.com/color/48/000000/code.png" width="35"/> LAKSHITHA M
 
-# LAKSHITHA M
+### <img src="https://img.shields.io/badge/JAVA_FULL_STACK_DEVELOPER-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-### JAVA FULL STACK DEVELOPER
+<br>
 
-`JAVA` · `SPRING BOOT` · `REACT` · `POSTGRESQL`
+<img src="https://img.shields.io/badge/Java-ED1C24?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </div>
 
@@ -14,35 +19,35 @@
 <tr>
 <td width="50%" valign="top">
 
-## `01` — ABOUT
+<h2>🧩 01 — ABOUT</h2>
 
 Computer Science Engineer focused on **Full Stack Development**, with a primary focus on the **Java ecosystem**.
 
-Interested in building:
+<br>
 
-* Backend systems
-* RESTful APIs
-* Database-driven applications
-* Scalable web applications
-* Clean and maintainable software
+🔴 Backend systems
+🔵 RESTful APIs
+🟣 Database-driven applications
+🟢 Scalable web applications
+🟠 Clean & maintainable software
 
 </td>
 
 <td width="50%" valign="top">
 
-## `02` — PRIMARY STACK
+<h2>⚙️ 02 — PRIMARY STACK</h2>
 
-### BACKEND
+### 🔴 BACKEND
 
 `Java` · `Spring Boot`
 `JPA` · `Hibernate` · `Maven`
 
-### FRONTEND
+### 🔵 FRONTEND
 
 `React` · `JavaScript`
 `HTML` · `CSS`
 
-### DATABASE
+### 🟣 DATABASE
 
 `PostgreSQL` · `MySQL`
 
@@ -56,9 +61,9 @@ Interested in building:
 <tr>
 <td width="50%" valign="top">
 
-## `03` — JAVA ECOSYSTEM
+<h2>☕ 03 — JAVA ECOSYSTEM</h2>
 
-```text id="g7c1k4"
+```text
 Java
  ├── OOP
  ├── Collections
@@ -77,20 +82,19 @@ Spring Boot
 
 <td width="50%" valign="top">
 
-## `04` — WEB DEVELOPMENT
+<h2>🌐 04 — WEB DEVELOPMENT</h2>
 
 ### FRONTEND
 
-`HTML5` · `CSS3`
-`JavaScript` · `React`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 ### BACKEND
 
-`Spring Boot` · `REST APIs`
-
-### DEVELOPMENT
-
-`Git` · `GitHub` · `Postman` · `VS Code`
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white"/>
 
 </td>
 </tr>
@@ -102,21 +106,21 @@ Spring Boot
 <tr>
 <td width="50%" valign="top">
 
-## `05` — CURRENTLY LEARNING
+<h2>📚 05 — CURRENTLY LEARNING</h2>
 
-### TYPESCRIPT
+### 🟡 TYPESCRIPT
 
 `TypeScript`
 
-### JAVASCRIPT ECOSYSTEM
+### 🟢 JAVASCRIPT ECOSYSTEM
 
 `Node.js` · `Express.js`
 
-### PYTHON WEB
+### 🐍 PYTHON WEB
 
 `Django`
 
-### JAVA
+### 🔴 JAVA
 
 `Spring Boot` · `Spring Security`
 
@@ -124,26 +128,27 @@ Spring Boot
 
 <td width="50%" valign="top">
 
-## `06` — EXPANDING INTO
+<h2>🚀 06 — EXPANDING INTO</h2>
 
-```text id="q8n2s6"
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-React
-  ↓
-TypeScript
-  ↓
-Node.js
-  ↓
-Django
+```text
+       JAVA
+         │
+    SPRING BOOT
+         │
+     REST APIs
+         │
+       REACT
+         │
+    TYPESCRIPT
+         │
+      NODE.JS
+         │
+      DJANGO
 ```
 
-Building breadth across multiple backend ecosystems
-while keeping **Java** as the primary stack.
+**Primary → Java Full Stack**
+
+**Expanding → Modern Web Ecosystem**
 
 </td>
 </tr>
@@ -155,47 +160,49 @@ while keeping **Java** as the primary stack.
 <tr>
 <td width="33%" valign="top">
 
-## `07` — DATABASES
+<h2>🗄️ 07 — DATABASES</h2>
 
-`PostgreSQL`
+🔵 `PostgreSQL`
 
-`MySQL`
+🟠 `MySQL`
 
-`Redis`
+🔴 `Redis`
 
-Currently exploring:
+<br>
 
-* Data modelling
-* Indexing
-* Transactions
-* Query optimization
-* Caching
+**Exploring**
 
-</td>
-
-<td width="33%" valign="top">
-
-## `08` — CS FOUNDATIONS
-
-`DSA`
-
-`DBMS`
-
-`OOP`
-
-`Operating Systems`
-
-`Computer Networks`
-
-`Software Engineering`
-
-`System Design`
+• Data Modelling
+• Indexing
+• Transactions
+• Query Optimization
+• Caching
 
 </td>
 
 <td width="33%" valign="top">
 
-## `09` — TOOLING
+<h2>🧠 08 — CS FOUNDATIONS</h2>
+
+🔹 `DSA`
+
+🔹 `DBMS`
+
+🔹 `OOP`
+
+🔹 `Operating Systems`
+
+🔹 `Computer Networks`
+
+🔹 `Software Engineering`
+
+🔹 `System Design`
+
+</td>
+
+<td width="33%" valign="top">
+
+<h2>🛠️ 09 — TOOLING</h2>
 
 `Git`
 
@@ -223,17 +230,18 @@ Currently exploring:
 <tr>
 <td width="50%" valign="top">
 
-## `10` — AI / ML
+<h2>🤖 10 — AI / ML</h2>
 
 A secondary technical interest.
 
-### STACK
+### 🐍 STACK
 
-`Python` · `NumPy`
-`Pandas` · `Scikit-learn`
-`Matplotlib` · `Streamlit`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-### INTERESTS
+### 🔬 INTERESTS
 
 Applied Machine Learning
 Intelligent Applications
@@ -243,11 +251,11 @@ Automation
 
 <td width="50%" valign="top">
 
-## `11` — SYSTEM DESIGN
+<h2>🏗️ 11 — SYSTEM DESIGN</h2>
 
 Currently developing an understanding of:
 
-```text id="n4w8p2"
+```text
 Requirements
      ↓
 Architecture
@@ -273,43 +281,38 @@ Reliability
 <tr>
 <td width="50%" valign="top">
 
-## `12` — ENGINEERING APPROACH
+<h2>🔧 12 — ENGINEERING APPROACH</h2>
 
-**01 · UNDERSTAND**
-
+**01 · 🔍 UNDERSTAND**
 Requirements & constraints
 
-**02 · DESIGN**
-
+**02 · 🧱 DESIGN**
 Architecture & data flow
 
-**03 · IMPLEMENT**
-
+**03 · ⚡ IMPLEMENT**
 Simple, maintainable code
 
-**04 · TEST**
-
+**04 · 🧪 TEST**
 Behaviour & edge cases
 
-**05 · IMPROVE**
-
+**05 · 📈 IMPROVE**
 Performance & scalability
 
 </td>
 
 <td width="50%" valign="top">
 
-## `13` — PRINCIPLES
+<h2>💡 13 — PRINCIPLES</h2>
 
-> **Understand the abstraction.**
+> 🔎 **Understand the abstraction.**
 
-> **Keep the implementation simple.**
+> 🧩 **Keep the implementation simple.**
 
-> **Design before scaling.**
+> 🏗️ **Design before scaling.**
 
-> **Write code that can be maintained.**
+> ✍️ **Write maintainable code.**
 
-> **Learn by building.**
+> 🔨 **Learn by building.**
 
 </td>
 </tr>
@@ -319,28 +322,28 @@ Performance & scalability
 
 <div align="center">
 
-## `14` — TECHNOLOGY MAP
+## 🗺️ 14 — TECHNOLOGY MAP
 
-### PRIMARY
+<img src="https://img.shields.io/badge/PRIMARY-JAVA_|_SPRING_BOOT_|_REACT_|_POSTGRESQL-ED1C24?style=for-the-badge"/>
 
-`JAVA` `SPRING BOOT` `REACT` `POSTGRESQL`
+<br><br>
 
-### LEARNING
+<img src="https://img.shields.io/badge/LEARNING-TYPESCRIPT_|_NODE.JS_|_EXPRESS_|_DJANGO-7B61FF?style=for-the-badge"/>
 
-`TYPESCRIPT` `NODE.JS` `EXPRESS.JS` `DJANGO`
+<br><br>
 
-### FOUNDATIONS
+<img src="https://img.shields.io/badge/FOUNDATIONS-DSA_|_DBMS_|_OOP_|_OS_|_CN_|_SYSTEM_DESIGN-2563EB?style=for-the-badge"/>
 
-`DSA` `DBMS` `OOP` `OS` `CN` `SYSTEM DESIGN`
+<br><br>
 
-### INFRASTRUCTURE
+<img src="https://img.shields.io/badge/INFRA-GIT_|_DOCKER_|_LINUX_|_AWS-111827?style=for-the-badge"/>
 
-`GIT` `DOCKER` `LINUX` `AWS`
+<br><br>
 
----
+### 🔴 JAVA FULL STACK   •   🔵 BACKEND   •   🟣 SYSTEMS
 
 <br>
 
-**JAVA FULL STACK · BACKEND · SYSTEMS**
+<i>Build systems. Understand systems. Improve systems.</i>
 
 </div>
