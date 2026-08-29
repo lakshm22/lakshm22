@@ -1,219 +1,91 @@
 <div align="center">
- 
-# LAKSHITHA M
 
-### <img src="https://img.shields.io/badge/JAVA_FULL_STACK_DEVELOPER-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,50:7B2FF7,100:2575FC&height=180&section=header&text=LAKSHITHA%20M&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-ED1C24?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<a href="https://github.com/lakshm22">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/lakshitha-m22/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Building+Backend+Systems+%26+REST+APIs;Learning+TypeScript+%7C+Node.js+%7C+Django;Exploring+System+Design+%26+Cloud" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 👩‍💻 About Me
 
-<h2>🧩 01 — ABOUT</h2>
+Computer Science Engineer focused on **Java Full Stack Development** and backend engineering.
 
-Computer Science Engineer focused on **Full Stack Development**, with a primary focus on the **Java ecosystem**.
+I enjoy understanding how applications work beneath the surface — from **API design and business logic to databases, caching, authentication and deployment**.
 
-<br>
-
-🔴 Backend systems
-🔵 RESTful APIs
-🟣 Database-driven applications
-🟢 Scalable web applications
-🟠 Clean & maintainable software
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>⚙️ 02 — PRIMARY STACK</h2>
-
-### 🔴 BACKEND
-
-`Java` · `Spring Boot`
-`JPA` · `Hibernate` · `Maven`
-
-### 🔵 FRONTEND
-
-`React` · `JavaScript`
-`HTML` · `CSS`
-
-### 🟣 DATABASE
-
-`PostgreSQL` · `MySQL`
-
-</td>
-</tr>
-</table>
+* 🔴 Primary ecosystem: **Java + Spring Boot**
+* 🔵 Frontend: **React + JavaScript**
+* 🟣 Databases: **PostgreSQL + MySQL**
+* 🟢 Exploring: **TypeScript + Node.js + Django**
+* ☁️ Learning: **Docker + Linux + AWS**
+* 🧠 Strengthening: **DSA + System Design + CS fundamentals**
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h2>☕ 03 — JAVA ECOSYSTEM</h2>
-
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Exceptions
- ├── Multithreading
- └── DSA
-
-Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Spring Security
- └── Hibernate
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🌐 04 — WEB DEVELOPMENT</h2>
-
-### FRONTEND
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-### BACKEND
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
----
+## 🧭 What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-<h2>📚 05 — CURRENTLY LEARNING</h2>
+<td width="33%" valign="top">
 
-### 🟡 TYPESCRIPT
+### ☕ Backend Engineering
+
+Building RESTful backend applications using:
+
+`Java`
+
+`Spring Boot`
+
+`JPA / Hibernate`
+
+`Spring Security`
+
+`REST APIs`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Full Stack Applications
+
+Connecting backend systems with modern web interfaces using:
+
+`React`
+
+`JavaScript`
 
 `TypeScript`
 
-### 🟢 JAVASCRIPT ECOSYSTEM
+`HTML`
 
-`Node.js` · `Express.js`
-
-### 🐍 PYTHON WEB
-
-`Django`
-
-### 🔴 JAVA
-
-`Spring Boot` · `Spring Security`
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🚀 06 — EXPANDING INTO</h2>
-
-```text
-       JAVA
-         │
-    SPRING BOOT
-         │
-     REST APIs
-         │
-       REACT
-         │
-    TYPESCRIPT
-         │
-      NODE.JS
-         │
-      DJANGO
-```
-
-**Primary → Java Full Stack**
-
-**Expanding → Modern Web Ecosystem**
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h2>🗄️ 07 — DATABASES</h2>
-
-🔵 `PostgreSQL`
-
-🟠 `MySQL`
-
-🔴 `Redis`
-
-<br>
-
-**Exploring**
-
-• Data Modelling
-• Indexing
-• Transactions
-• Query Optimization
-• Caching
+`CSS`
 
 </td>
 
 <td width="33%" valign="top">
 
-<h2>🧠 08 — CS FOUNDATIONS</h2>
+### 🗄️ Data & Infrastructure
 
-🔹 `DSA`
+Working with:
 
-🔹 `DBMS`
+`PostgreSQL`
 
-🔹 `OOP`
+`MySQL`
 
-🔹 `Operating Systems`
-
-🔹 `Computer Networks`
-
-🔹 `Software Engineering`
-
-🔹 `System Design`
-
-</td>
-
-<td width="33%" valign="top">
-
-<h2>🛠️ 09 — TOOLING</h2>
-
-`Git`
-
-`GitHub`
-
-`Postman`
-
-`VS Code`
-
-`Maven`
+`Redis`
 
 `Docker`
 
@@ -222,129 +94,350 @@ Spring Boot
 `AWS`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🔴 Primary Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,git,github,postman" />
+</p>
+
+### 🟣 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,express,django,docker,linux,aws" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Streamlit`
+
+---
+
+## ☕ Java Engineering
+
+My primary development ecosystem.
+
+```text
+JAVA
+ │
+ ├── Object-Oriented Programming
+ ├── Collections
+ ├── Exception Handling
+ ├── Multithreading
+ ├── Streams & Lambdas
+ └── Data Structures & Algorithms
+        │
+        ▼
+SPRING BOOT
+ │
+ ├── REST APIs
+ ├── Spring MVC
+ ├── Spring Data JPA
+ ├── Hibernate
+ ├── Spring Security
+ └── Authentication & Authorization
+```
+
+---
+
+## 🌐 Full Stack
+
+```text
+                 CLIENT
+                   │
+                   ▼
+              React / TS
+                   │
+              REST APIs
+                   │
+                   ▼
+             Spring Boot
+                   │
+          ┌────────┴────────┐
+          ▼                 ▼
+      Business           Security
+       Logic            JWT / Auth
+          │
+          ▼
+      JPA / Hibernate
+          │
+     ┌────┴────┐
+     ▼         ▼
+ PostgreSQL   MySQL
+```
+
+Currently expanding into the wider JavaScript/Python ecosystem:
+
+`TypeScript` → `Node.js` → `Express.js` → `Django`
+
+---
+
+## 🗄️ Data & Caching
+
+### Relational Databases
+
+`PostgreSQL` · `MySQL`
+
+Interested in:
+
+* Data modelling
+* Relationships
+* Transactions
+* Indexing
+* Query optimization
+
+### ⚡ Caching
+
+`Redis`
+
+Exploring:
+
+* Cache-aside patterns
+* TTL
+* Session storage
+* Rate limiting
+* Read-heavy workloads
+
+---
+
+## 🧠 Computer Science
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h2>🤖 10 — AI / ML</h2>
+### Core Foundations
 
-A secondary technical interest.
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Software Engineering
 
-### 🐍 STACK
+</td>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<td width="50%" valign="top">
 
-### 🔬 INTERESTS
+### Engineering
+
+* REST API Design
+* Database Design
+* Authentication
+* System Design
+* Scalability
+* Caching
+* Cloud Fundamentals
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🏗️ System Design
+
+Currently developing an understanding of how applications evolve beyond a single server.
+
+```text
+Requirements
+      ↓
+Architecture
+      ↓
+API Design
+      ↓
+Data Modeling
+      ↓
+Caching
+      ↓
+Load Balancing
+      ↓
+Scalability
+      ↓
+Reliability
+```
+
+Areas I'm exploring:
+
+`Caching` · `Load Balancing` · `Message Queues` · `Distributed Systems` · `Microservices`
+
+---
+
+## 🤖 AI / ML
+
+A secondary area of interest.
+
+### Stack
+
+`Python` · `NumPy` · `Pandas` · `Scikit-learn`
+
+`Matplotlib` · `Streamlit`
+
+### Interests
 
 Applied Machine Learning
 Intelligent Applications
 Automation
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2>🏗️ 11 — SYSTEM DESIGN</h2>
-
-Currently developing an understanding of:
-
-```text
-Requirements
-     ↓
-Architecture
-     ↓
-API Design
-     ↓
-Data Modeling
-     ↓
-Caching
-     ↓
-Scalability
-     ↓
-Reliability
-```
-
-</td>
-</tr>
-</table>
+AI-powered Software
 
 ---
+
+## 📚 Currently Learning
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-<h2>🔧 12 — ENGINEERING APPROACH</h2>
+<td width="33%" valign="top">
 
-**01 · 🔍 UNDERSTAND**
-Requirements & constraints
+### 🔴 Java
 
-**02 · 🧱 DESIGN**
-Architecture & data flow
+Spring Boot
 
-**03 · ⚡ IMPLEMENT**
-Simple, maintainable code
+Spring Security
 
-**04 · 🧪 TEST**
-Behaviour & edge cases
-
-**05 · 📈 IMPROVE**
-Performance & scalability
+Advanced Java
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<h2>💡 13 — PRINCIPLES</h2>
+### 🟣 Web
 
-> 🔎 **Understand the abstraction.**
+TypeScript
 
-> 🧩 **Keep the implementation simple.**
+Node.js
 
-> 🏗️ **Design before scaling.**
+Express.js
 
-> ✍️ **Write maintainable code.**
-
-> 🔨 **Learn by building.**
+Django
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🔵 Engineering
+
+DSA
+
+System Design
+
+Docker
+
+Linux
+
+AWS
+
+</td>
+
 </tr>
 </table>
 
 ---
 
+## ⚙️ Engineering Approach
+
+```text
+        UNDERSTAND
+             │
+             ▼
+          DESIGN
+             │
+             ▼
+           BUILD
+             │
+             ▼
+           TEST
+             │
+             ▼
+          MEASURE
+             │
+             ▼
+          IMPROVE
+```
+
+### Principles
+
+> **Readable > Clever**
+
+> **Simple > Unnecessarily Complex**
+
+> **Understand > Memorize**
+
+> **Measure > Assume**
+
+> **Build > Just Watch**
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 🗺️ 14 — TECHNOLOGY MAP
+<img src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img src="https://img.shields.io/badge/PRIMARY-JAVA_|_SPRING_BOOT_|_REACT_|_POSTGRESQL-ED1C24?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LEARNING-TYPESCRIPT_|_NODE.JS_|_EXPRESS_|_DJANGO-7B61FF?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&theme=transparent&hide_border=true" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FOUNDATIONS-DSA_|_DBMS_|_OOP_|_OS_|_CN_|_SYSTEM_DESIGN-2563EB?style=for-the-badge"/>
+<img src="https://streak-stats.demolab.com?user=lakshm22&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lakshm22/lakshm22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+### **Learn the abstraction.**
+
+### **Understand what happens underneath.**
+
+### **Build something with it.**
+
+### **Then make it better.**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/lakshm22">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshitha-m22/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/INFRA-GIT_|_DOCKER_|_LINUX_|_AWS-111827?style=for-the-badge"/>
-
-<br><br>
-
-### 🔴 JAVA FULL STACK   •   🔵 BACKEND   •   🟣 SYSTEMS
-
-<br>
-
-<i>Build systems. Understand systems. Improve systems.</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:7B2FF7,100:ED1C24&height=100&section=footer" width="100%"/>
 
 </div>
