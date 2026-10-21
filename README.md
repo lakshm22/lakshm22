@@ -180,20 +180,33 @@ My approach is to strengthen the fundamentals first, then understand how those f
 
 I'm interested in understanding AI and machine learning as complementary areas of computer science, while keeping my primary learning direction centered on backend and systems engineering.
 
-### 🤖 AI / ML
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib&theme=dark" alt="Python, NumPy, Pandas, Scikit-learn, Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="Python, PyTorch, TensorFlow"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-ED1C24?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-7B2FF7?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-2575FC?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-7B2FF7?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Explainable%20AI-ED1C24?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHAP-2575FC?style=for-the-badge&logo=shap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-ED1C24?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-7B2FF7?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2575FC?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-ED1C24?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-7B2FF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-2575FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI%20%28XAI%29-ED1C24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SHAP-7B2FF7?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-2575FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-ED1C24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7B2FF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-2575FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-ED1C24?style=for-the-badge"/>
+</p>
+
+
 
 
 ## 📊 Coding Activity
