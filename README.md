@@ -1,271 +1,303 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,50:7B2FF7,100:2575FC&height=180&section=header&text=LAKSHITHA%20M&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090F,35:4C1D95,70:2563EB,100:7C3AED&text=LAKSHITHA%20M&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%2F%2F%20SYSTEMS%20EXPLORATION&descSize=14&descAlignY=60&animation=twinkling"/>
 
-<br>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=750&lines=Building+Reliable+%26+Scalable+Systems;Turning+Ideas+into+Working+Software;Designing+Clean+APIs+%26+Architecture;Solving+Problems+One+Commit+at+a+Time;Code+%7C+Logic+%7C+Systems;Build.+Break.+Understand.+Improve." />
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+useful+backend+systems.;Designing+APIs+that+make+sense.;Exploring+what+happens+underneath.;Learning.+Building.+Debugging.+Repeating." alt="Typing introduction"/>
 
-<a href="https://github.com/lakshm22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/lakshm22">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/lakshitha2005che">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/lakshm22/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="mailto:lakshitha2005che@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/lakshitha-m22/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
+
+<a href="https://github.com/lakshm22"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lakshitha-m22/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:lakshitha2005che@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://leetcode.com/lakshm22/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=lakshm22&style=flat-square&color=7C3AED&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+## `01` / SYSTEM IDENTITY
 
-Computer Science Engineer focused on **Java Full Stack Development** and backend engineering.
+```java
+public class Developer {
 
-Interested in understanding how applications work from **API design and business logic to databases, caching, authentication and deployment**.
+    String primaryFocus = "Backend Engineering";
+    String secondaryFocus = "Systems Engineering";
 
-* 🔴 Primary ecosystem: **Java + Spring Boot**
-* 🔵 Frontend: **React + JavaScript**
-* 🟣 Databases: **PostgreSQL + MySQL**
-* 🟢 Exploring: **TypeScript + Node.js + Django**
-* ☁️ Learning: **Docker + Linux + AWS + Deployment**
-* 🧠 Strengthening: **DSA + System Design + CS fundamentals**
+    String primaryLanguage = "Java";
+    String backendStack = "Spring Boot";
+    String databaseFocus = "SQL & Data Modelling";
+
+    String[] exploring = {
+        "Linux & Operating Systems",
+        "Networking & Concurrency",
+        "Performance & Distributed Systems"
+    };
+
+    String philosophy =
+        "Build it. Understand it. Improve it.";
+}
+```
+
+I'm a Computer Science student interested in building useful backend services and understanding the systems that power them.
+
+My focus is on Java, backend architecture, APIs, and databases, while gradually exploring Linux, operating systems, networking, concurrency, and performance.
+
+**The direction:** backend first, systems depth alongside it.
 
 ---
 
-### 🧭 What I Build
+## `02` / SKILL ATLAS
+
+<details open>
+<summary><b>☕ Languages & Programming</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,bash&theme=dark" alt="Programming language icons"/>
+
+`Java` · `Python` · `JavaScript` · `TypeScript` · `Bash`
+
+</details>
+
+<details open>
+<summary><b>⚡ Backend Engineering</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark" alt="Backend technology icons"/>
+
+`Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `REST APIs`
+
+`Node.js` · `Express.js` · `Django` — exploring
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Caching</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark" alt="Database technology icons"/>
+
+`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `MongoDB`
+
+**Concepts:** SQL · Data Modelling · Transactions · Indexing · Query Optimization · Caching
+
+</details>
+
+<details open>
+<summary><b>🌐 Frontend — Supporting Toolkit</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=dark" alt="Frontend technology icons"/>
+
+`HTML` · `CSS` · `JavaScript` · `React` · `TypeScript`
+
+Used to build interfaces, integrate APIs, and make backend projects usable—not my primary specialization.
+
+</details>
+
+<details open>
+<summary><b>🧪 API Testing & Development Tools</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode&theme=dark" alt="API testing and developer tool icons"/>
+
+`Postman` · `Git` · `GitHub` · `VS Code`
+
+**Testing focus:** HTTP methods · Status Codes · JSON · Request Validation · Error Responses · Collections · Automated Assertions
+
+</details>
+
+<details open>
+<summary><b>☁️ Deployment & Infrastructure</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,nginx,githubactions&theme=dark" alt="Deployment and infrastructure icons"/>
+
+`Docker` · `Linux` · `AWS` · `Nginx` · `GitHub Actions`
+
+**Exploring:** Containerization · CI/CD · Environment Configuration · Reverse Proxies · Application Deployment · Logging · Monitoring
+
+</details>
+
+<details open>
+<summary><b>⚙️ Systems & Computer Science</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=dark" alt="Systems programming and Linux icons"/>
+
+`DSA` · `Operating Systems` · `Computer Networks` · `Concurrency` · `Memory` · `Processes & Threads` · `Performance` · `Distributed Systems`
+
+</details>
+
+> Technologies listed here represent a mix of my working stack and areas I'm exploring. I'm continuously improving my practical experience.
+
+---
+
+## `03` / ENGINEERING DOMAINS
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🔴 Backend
 
-#### ☕ Backend Engineering
-
-`Java`
-
-`Spring Boot`
-
-`JPA / Hibernate`
-
-`Spring Security`
-
-`REST APIs`
+- REST API design
+- Application architecture
+- Business logic and validation
+- Authentication fundamentals
+- Database integration
+- Testing and error handling
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🟣 Systems
 
-#### 🌐 Full Stack Applications
-
-`React`
-
-`JavaScript`
-
-`TypeScript`
-
-`HTML`
-
-`CSS`
+- Linux fundamentals
+- Processes and threads
+- Networking and sockets
+- Concurrency
+- Resource usage and profiling
+- Distributed systems concepts
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🔵 Data
 
-#### 🗄️ Data & Infrastructure
-
-`PostgreSQL`
-
-`MySQL`
-
-`Redis`
-
-`Docker`
-
-`Linux`
-
-`AWS`
+- Relational data modelling
+- SQL queries and transactions
+- Indexing fundamentals
+- Caching concepts
+- Query performance
 
 </td>
+<td width="50%" valign="top">
 
+### 🟢 Deployment
+
+- Git-based workflows
+- Docker fundamentals
+- Environment configuration
+- CI/CD exploration
+- Logs and service health
+
+</td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+## `04` / DEPLOYMENT LAB
 
-#### 🔴 Primary
+```text
+SOURCE CODE
+    |
+    v
+GIT + GITHUB
+    |
+    v
+BUILD + AUTOMATED TESTS
+    |
+    v
+CONTAINERIZATION [DOCKER]
+    |
+    v
+APPLICATION DEPLOYMENT
+    |
+    v
+LOGS + HEALTH CHECKS
+    |
+    v
+DEBUG / MEASURE / IMPROVE
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,react,postgres,mysql,git,github,postman" />
-</p>
+I'm exploring the lifecycle of a backend application—from local development and testing to deployment, configuration, and monitoring.
 
-#### 🟣 Currently Learning
+**Deployment strategies I'm learning about:**
 
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,express,django,docker,linux,aws" />
-</p>
-
-#### 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
-`Streamlit` `numpy` `pandas` `matplotlib`
-
----
-
-### ☕ Java Engineering
-
-Java is my primary development ecosystem, with a focus on **object-oriented programming, collections, exception handling, multithreading, streams, and data structures & algorithms**. I'm building backend applications with **Spring Boot**, working with REST APIs, Spring MVC, Spring Data JPA, Hibernate, Spring Security, and authentication & authorization.
-
----
-
-### 🌐 Full Stack
-
-I work across the full stack, building interfaces with **HTML, CSS, JavaScript, and React**, and developing backend services with **Java and Spring Boot**. On the data side, I work with **PostgreSQL and MySQL**, with **Redis** as a caching layer. I'm also expanding into the broader web ecosystem through **TypeScript, Node.js, Express.js, and Django**.
-
-
----
-
-### 🗄️ Data & Caching
-
-#### RELATIONAL DATABASES
-
-`PostgreSQL` · `MySQL`
-
-Data modelling · Transactions · Indexing · Query Optimization
-
-#### ⚡ CACHING
-
-`Redis`
-
-Cache-aside · TTL · Session Storage · Rate Limiting
+- Traditional application deployment
+- Container-based deployment with Docker
+- CI/CD pipelines for repeatable builds and tests
+- Reverse-proxy routing with Nginx
+- Cloud hosting fundamentals
+- Health checks, logs, and operational troubleshooting
 
 ---
 
-### 🧠 Computer Science
+## `05` / CURRENT MISSIONS
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-#### Core
+**01 — Backend Craft**
 
-`DSA`
-
-`OOP`
-
-`DBMS`
-
-`Operating Systems`
-
-`Computer Networks`
+Build APIs with Java and Spring Boot, integrate SQL databases, and practise validation, testing, and clean application design.
 
 </td>
-
 <td width="50%" valign="top">
 
-#### Engineering
+**02 — Systems Foundations**
 
-`REST API Design`
-
-`Database Design`
-
-`Authentication`
-
-`System Design`
-
-`Scalability`
-
-`Cloud Fundamentals`
+Explore Linux, networking, processes, memory, concurrency, and the fundamentals behind application behaviour.
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+**03 — Problem Solving**
+
+Strengthen DSA and core computer science fundamentals through implementation and deliberate practice.
+
+</td>
+<td width="50%" valign="top">
+
+**04 — Reliable Delivery**
+
+Learn Docker, deployment workflows, configuration, observability, and how to investigate failures.
+
+</td>
 </tr>
 </table>
 
 ---
 
-### 🏗️ SYSTEM DESIGN
-
-Interested in designing reliable, scalable backend systems.
-
-`API Design` · `Database Design` · `Caching`
-`Load Balancing` · `Messaging` · `Distributed Systems`
-
----
-
-### 🤖 AI / ML
-
-A secondary technical interest.
-
-#### STACK
-
-`Python` · `NumPy` · `Pandas` · `Scikit-learn`
-
-`Matplotlib` · `Streamlit`
-
-#### INTERESTS
-
-Applied Machine Learning · Intelligent Applications · Automation
-
----
-
-### 💻 Coding Activity
+## `07` / GITHUB TELEMETRY
 
 <div align="center">
 
-#### 🟡 LeetCode
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://leetcard.jacoblin.cool/lakshm22?theme=dark&font=Karma&ext=heatmap" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most-used languages"/>
 
-<br><br>
+<br/><br/>
 
-#### 🟢 GeeksforGeeks
-
-<img src="https://gfg-stats.tashif.codes/lakshm22/stats/svg" alt="GeeksforGeeks Stats" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshm22&bg_color=0D1117&color=A78BFA&line=6366F1&point=22D3EE&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-### 📊 GitHub
+## `08` / ENGINEERING MANIFESTO
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=lakshm22&bg=0D0B14&text=E5E7EB&title_color=7B2FF7&icon_color=ED1C24&border_color=2575FC&show_icons=true&show_ring=true" />
+### Understand the abstraction.
+### Investigate what happens underneath.
+### Build something useful.
+### Test it. Break it. Improve it.
 
-</div>
+<br/>
 
----
+`BACKEND` &nbsp; / &nbsp; `SYSTEMS` &nbsp; / &nbsp; `CURIOSITY`
 
-### 💡 Engineering Philosophy
-
-<div align="center">
-
-****Learn the abstraction**** · ****Understand what happens underneath**** · ****Build something with it**** · ****Then make it better****
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:7B2FF7,100:ED1C24&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:2563EB,100:09090F"/>
 
 </div>
