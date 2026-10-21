@@ -1,8 +1,8 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0B1A,40:312E81,75:4338CA,100:7C3AED&text=LAKSHITHA%20M&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20%7C%20BACKEND%20ENGINEERING%20%7C%20SYSTEMS&descSize=14&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:1D4ED8,75:2563EB,100:DC2626&text=LAKSHITHA%20M&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20%7C%20BACKEND%20ENGINEERING%20%7C%20SYSTEMS&descSize=14&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Java+Backend+Development;Spring+Boot+%7C+Databases+%7C+APIs;Exploring+Systems+Engineering;Understanding+what+happens+under+the+hood." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Java+Backend+Development;Spring+Boot+%7C+Databases+%7C+APIs;Exploring+Systems+Engineering;Understanding+what+happens+under+the+hood." alt="Typing SVG"/>
 
 <br/>
 
@@ -198,23 +198,11 @@ I'm interested in understanding AI and machine learning as complementary areas o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=DC2626&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=DC2626&text_color=C9D1D9" alt="Most used languages"/>
 
 <br/><br/>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshm22&bg_color=0D1117&color=A78BFA&line=6366F1&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lakshm22/username/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
 
 ## 💭 Engineering Philosophy
 
@@ -228,6 +216,6 @@ I'm interested in understanding AI and machine learning as complementary areas o
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:4338CA,100:0D0B1A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,40:1D4ED8,75:2563EB,100:DC2626"/>
 
 </div>
