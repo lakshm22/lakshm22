@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:DC2626,40:2563EB,75:8B5CF6,100:0D1117&text=LAKSHITHA%20M&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20%7C%20BACKEND%20ENGINEERING%20%7C%20SYSTEMS&descSize=14&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,40:8B5CF6,75:2563EB,100:DC2626&text=LAKSHITHA%20M&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20%7C%20BACKEND%20ENGINEERING%20%7C%20SYSTEMS&descSize=14&descAlignY=60&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Java+Backend+Development;Spring+Boot+%7C+Databases+%7C+APIs;Exploring+Systems+Engineering;Understanding+what+happens+under+the+hood." alt="Typing SVG"/>
 
