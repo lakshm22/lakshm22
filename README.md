@@ -212,7 +212,7 @@ I'm interested in understanding AI and machine learning as complementary areas o
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/username/lakshm22/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/lakshm22/lakshm22/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
