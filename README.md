@@ -206,7 +206,7 @@ I'm interested in understanding AI and machine learning as complementary areas o
   <img src="https://img.shields.io/badge/Vector%20Search-ED1C24?style=for-the-badge"/>
 </p>
 
-
+<br/>
 
 
 ## 📊 Coding Activity
