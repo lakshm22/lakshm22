@@ -180,6 +180,22 @@ My approach is to strengthen the fundamentals first, then understand how those f
 
 I'm interested in understanding AI and machine learning as complementary areas of computer science, while keeping my primary learning direction centered on backend and systems engineering.
 
+### 🤖 AI / ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib&theme=dark" alt="Python, NumPy, Pandas, Scikit-learn, Matplotlib"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-ED1C24?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-7B2FF7?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-2575FC?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-7B2FF7?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-ED1C24?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-2575FC?style=for-the-badge&logo=shap&logoColor=white"/>
+</p>
+
+
 ## 📊 Coding Activity
 
 <div align="center">
