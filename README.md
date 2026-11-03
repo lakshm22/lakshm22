@@ -227,9 +227,10 @@ I'm interested in understanding AI and machine learning as complementary areas o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=ED1C24&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=ED1C24&text_color=C9D1D9" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshm22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=ED1C24&text_color=C9D1D9&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshm22&layout=compact&hide_border=true&bg_color=0D1117&title_color=7B2FF7&icon_color=ED1C24&text_color=C9D1D9&cache_seconds=86400" alt="Most used languages"/>
 
 <br/><br/>
 
